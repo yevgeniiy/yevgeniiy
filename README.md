@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋!
 
-<!--
-**yevgeniiy/yevgeniiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yevgenii. I live in Odessa, Ukraine.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Swift using courses, literature, online tutorials and pet-projects
+- :telescope: Looking for an internship or employment as a Junior iOS developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some facts about me.
+
+- :ship: I have a bachelor's degree in marine engineering and worked on ships for several years
+- :busts_in_silhouette: Positive experience of working in international teams
+
+#### My hobbies
+
+- :couch_and_lamp: Smart home technologies
+- :electric_plug: DIY Electronics
+- :snowboarder: Snowboarding
+- :earth_africa: Traveling
+- :speaking_head: Learning Spanish
+
