@@ -1,20 +1,15 @@
 ### Hi there 👋!
+- :telescope: I’m open to interesting projects and opportunities
 
-I'm Yevgenii. I live in Odessa, Ukraine.
+#### About me
 
-- 🌱 I’m currently learning Swift using courses, literature, online tutorials and pet-projects
-- :telescope: Looking for an internship or employment as a Junior iOS developer
+- 🌍 Originally from Odesa, now living in the Canary Islands.
+- :ship: Experience in marine engineering and working in international teams.
+  
+#### Interests
 
-#### Some facts about me.
-
-- :ship: I have a bachelor's degree in marine engineering and worked on ships for several years
-- :busts_in_silhouette: Positive experience of working in international teams
-
-#### My hobbies
-
-- :couch_and_lamp: Smart home technologies
+- :couch_and_lamp: Technology
 - :electric_plug: DIY Electronics
 - :snowboarder: Snowboarding
 - :earth_africa: Traveling
-- :speaking_head: Learning Spanish
-
+- :speaking_head: Learning Spanish (a hobby I picked up out of necessity)
