@@ -12,4 +12,3 @@
 - :electric_plug: DIY Electronics
 - :snowboarder: Snowboarding
 - :earth_africa: Traveling
-- :speaking_head: Learning Spanish (a hobby I picked up out of necessity)
